@@ -5,7 +5,7 @@ variable "region" {
 
 variable "instance_type"{
     description = "Ec2 Instance type"
-    default = "t2.micro"
+    default = "t3.micro"
 }
 
 
